@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qr-code-generator/static/css/main.46088b14.css",
+    "main.js": "/qr-code-generator/static/js/main.225fbedb.js",
+    "static/js/453.2018e620.chunk.js": "/qr-code-generator/static/js/453.2018e620.chunk.js",
+    "static/media/456.jpg": "/qr-code-generator/static/media/456.47eecd2377079439058c.jpg",
+    "index.html": "/qr-code-generator/index.html",
+    "main.46088b14.css.map": "/qr-code-generator/static/css/main.46088b14.css.map",
+    "main.225fbedb.js.map": "/qr-code-generator/static/js/main.225fbedb.js.map",
+    "453.2018e620.chunk.js.map": "/qr-code-generator/static/js/453.2018e620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46088b14.css",
+    "static/js/main.225fbedb.js"
+  ]
+}
